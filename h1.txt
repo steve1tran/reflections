@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 hello 1
 Add new line for master head
+||||||| merged common ancestors
+hello 1
+=======
+hello 1
+new change for branch label1 branch
+>>>>>>> label1
