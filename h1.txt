@@ -7,3 +7,4 @@ hello 1
 hello 1
 new change for branch label1 branch
 >>>>>>> label1
+Add new line for branch label2 2nd time
